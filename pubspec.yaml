@@ -50,6 +50,12 @@ dependencies:
   google_sign_in: ^6.1.4
   sign_in_with_apple: ^5.0.0
   cached_network_image: ^3.2.3
+  google_maps_flutter: ^2.4.0
+  geolocator: ^10.0.0
+  google_places_flutter: ^2.0.6
+  google_maps_polyline: ^1.0.3
+  chips_choice: ^3.0.0
+  dotted_border: ^2.0.0+3
 
 dev_dependencies:
   flutter_test:

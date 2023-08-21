@@ -15,6 +15,10 @@
             </array>
         </dict>
     </array>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>This app needs access to location when open.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>This app needs access to location when in the background.</string>
     <key>NSPhotoLibraryUsageDescription</key>
     <string>The app needs to access the photo library to enable image uploads</string>
     <key>NSCameraUsageDescription</key>
